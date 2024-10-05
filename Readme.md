@@ -22,13 +22,13 @@ streamlit_translation_app/ │ ├── main.py # Main Streamlit app file ├�
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/streamlit_translation_app.git
+    git clone https://github.com/770navyasharma/Translator-app.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd streamlit_translation_app
+    cd Translator-app
     ```
 
 3. Install the required dependencies:
